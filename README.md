@@ -1,7 +1,7 @@
 # mazes
 Maze algorithms in Rust and Python
 
-Algorithms are
+Algorithms
 
 
 from "Mazes for Programmers" by Jamis Buck
