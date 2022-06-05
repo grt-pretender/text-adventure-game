@@ -1,7 +1,1 @@
-# mazes
-Maze algorithms in Rust and Python
-
-Algorithms
-
-
-from "Mazes for Programmers" by Jamis Buck
+text-adventure-game
